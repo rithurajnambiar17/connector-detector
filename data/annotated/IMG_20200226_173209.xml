@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>IMG_20200226_173209.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\Assignment\data\imgs\IMG_20200226_173209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>803</ymin>
+			<xmax>2653</xmax>
+			<ymax>2803</ymax>
+		</bndbox>
+	</object>
+</annotation>

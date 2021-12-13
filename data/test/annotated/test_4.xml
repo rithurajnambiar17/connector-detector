@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>test_4.png</filename>
+	<path>C:\Users\ASUS\Desktop\Assignment\data\test\imgs\test_4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>114</ymin>
+			<xmax>209</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
